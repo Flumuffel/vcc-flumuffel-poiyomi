@@ -1,0 +1,14 @@
+{
+  "name": "de.flumuffel.poiyomi-pro.Editor",
+  "references": [
+    "de.flumuffel.poiyomi-pro"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
