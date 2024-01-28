@@ -1,16 +1,19 @@
 {
   "name": "de.flumuffel.poiyomi-pro",
   "displayName": "Poiyomi Pro",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Version: poi_Pro_7.3.50_To_9.0.14",
-  "dependencies": {},
   "gitDependencies": {},
-  "vpmDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.5.0"
+  },
   "author": {
     "name": "Flumuffel",
-    "email": "vcc@flumuffel.de"
+    "email": "vcc@flumuffel.de",
+    "url": "https://vcc.flumuffel.de"
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "localPath": "G:\\VrChat\\Packages\\vcc-flumuffel-poiyomi\\Packages\\de.flumuffel.poiyomi-pro"
+  "localPath": "G:\\VrChat\\Packages\\vcc-flumuffel-poiyomi\\Packages\\de.flumuffel.poiyomi-pro",
+  "unity": "2022.3"
 }

@@ -1,6 +1,9 @@
 {
   "name": "de.flumuffel.poiyomi-pro",
-  "references": [],
+  "references": [
+    "VRC.SDK3A",
+    "VRC.SDKBase"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,

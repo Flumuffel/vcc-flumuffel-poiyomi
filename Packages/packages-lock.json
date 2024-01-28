@@ -111,6 +111,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "de.flumuffel.poiyomi-pro": {
+      "version": "file:de.flumuffel.poiyomi-pro",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
